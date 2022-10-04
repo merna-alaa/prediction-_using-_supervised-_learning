@@ -1,0 +1,4 @@
+After cleaning the data and spliting it to training and test sets apply our algorithm
+I applied linear regression algorithm to predict the score percentage for a student if he studies 9.25 hrs/days?
+using python on jupyter notebook
+the final step to evalute the model to see it's performance.
